@@ -4,7 +4,7 @@ Det här repot är ett färdigt nätverkslabb för undervisning i Linux och nät
 
 Varje elev startar en egen GitHub Codespace från repot. Inuti Codespace startas flera separata Ubuntu-miljöer med Docker Compose på samma privata nätverk.
 
-## Labbet
+## Labbet-
 
 | Maskin | Hostname | IP-adress | Roll |
 |---|---|---:|---|
