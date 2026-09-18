@@ -34,6 +34,7 @@ services:
       - backup_data:/backups
     networks:
       - labnet
+  ipv4_address: 172.20.0.30
 
 networks:
   labnet:
